@@ -6,7 +6,7 @@ Este proyecto fue creado con la finalidad de poner aprueba mis conocimientos de 
 ## Screenshots
 
 
-![App Screenshot](Img/seguro.png)
+![App Screenshot](Img/seguro.PNG)
 
 
 ## Tech Stack
